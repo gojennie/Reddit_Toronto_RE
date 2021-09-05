@@ -1,2 +1,2 @@
 # Reddit_Toronto_RE
-Gathering thread and posts from Toronto Real Estate subreddit using Reddit API
+Gathering posts and comments from Toronto Real Estate subreddit using Reddit API
